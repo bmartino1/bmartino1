@@ -16,16 +16,20 @@ My approach is straightforward: **make it work, document it clearly, and keep it
 
 ## 🚀 Featured public projects
 
-These are some of the projects I've chosen to feature on my GitHub profile:
+These are my **10 active public repositories**, listed in alphabetical order. Archived and private repositories are not included; this profile README repository is excluded as well.
 
 | Project | What it's for |
 | --- | --- |
-| 🧰 [Unraid Docker Templates](https://github.com/bmartino1/unraid-docker-templates) | Community Application XML templates for Unraid |
-| 🔐 [sftp2](https://github.com/bmartino1/sftp2) | A rebuild of a Docker-based SFTP service |
-| 📡 [NetProbe_Python](https://github.com/bmartino1/NetProbe_Python) | A Python-based network monitoring project using PostgreSQL and Grafana |
-| 🗝️ [smb-password-portal](https://github.com/bmartino1/smb-password-portal) | A non-administrator Samba password portal for Unraid |
-
-I also maintain [DockerManger](https://github.com/bmartino1/DockerManger), a lightweight Docker and Compose management Web UI with native-host installation and published amd64/arm64 images.
+| [`bmartino1CasaOS_AppStore`](https://github.com/bmartino1/bmartino1CasaOS_AppStore) | Third-party, independently maintained app store for CasaOS and ZimaOS |
+| [`clamav-alpine`](https://github.com/bmartino1/clamav-alpine) | Alpine-based ClamAV container rebuilt to run `clamdscan` |
+| [`DockerManger`](https://github.com/bmartino1/DockerManger) | Docker and Compose management Web UI with native-host and amd64/arm64 Docker deployment |
+| [`NetProbe_Python`](https://github.com/bmartino1/NetProbe_Python) | Python rebuild of a network-monitoring tool |
+| [`plex-dbrepair-docker`](https://github.com/bmartino1/plex-dbrepair-docker) | Docker-based utility for running Plex database repair tools |
+| [`sftp-alpine`](https://github.com/bmartino1/sftp-alpine) | Alpine-based SFTP container with Fail2Ban |
+| [`sftp-debian`](https://github.com/bmartino1/sftp-debian) | Debian-based SFTP with Fail2Ban for Unraid |
+| [`sftp2`](https://github.com/bmartino1/sftp2) | Rebuilt Docker-based SFTP service |
+| [`smb-password-portal`](https://github.com/bmartino1/smb-password-portal) | Non-administrator Samba password portal for Unraid |
+| [`unraid-docker-templates`](https://github.com/bmartino1/unraid-docker-templates) | Community Applications XML templates for Unraid |
 
 My public repositories focus on practical tools, repeatable configurations, and documentation that other homelab users can adapt.
 
