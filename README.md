@@ -44,6 +44,19 @@ Professionally, I'm an independent IT technician and Service Desk Analyst with e
 
 My homelab is where I put ideas into practice. I test changes, break things occasionally, fix them, and try to turn those lessons into useful public resources. I'm interested in tools that stay **understandable, maintainable, and useful** — without unnecessary complexity.
 
+## ❤️ Support my work & useful links
+
+I share homelab guides, Docker templates, scripts, and troubleshooting notes in the hope that they're useful to others. If something I've published has helped you, **optional support is always appreciated** — but there's no obligation.
+
+🙏 **[Support my work via PayPal](https://www.paypal.com/donate/?business=PA3ZHF52483KW&no_recurring=1&item_name=Tech+Support+%2F+Health+%2F+Buy+Me+a+Coffee&currency_code=USD)**
+
+| Resources & community | Projects & setup |
+| --- | --- |
+| 🕮 [Turn-Key Guides](https://bmartino1.weebly.com/guides.html) | 🐋 [My Docker Hub](https://hub.docker.com/u/bmmbmm01) |
+| 🔲 [Unraid User Scripts](https://forums.unraid.net/topic/178033-bmartino1-user-scripts/) | 📦 [My Public GitHub Repositories](https://github.com/bmartino1?tab=repositories) |
+| 📚 [Unraid CA Repository Support](https://forums.unraid.net/topic/198948-support-bmartino1-ca-docker-repository/#comment-1623934) | 🧰 [Unraid CA Templates](https://github.com/bmartino1/unraid-docker-templates) |
+| 💻 [System Specs & Build Details](https://pcpartpicker.com/list/Jd8yph) | |
+
 ---
 
 **Thanks for stopping by!** If a project or guide helps you, feel free to explore the repository, open an issue where appropriate, or join the discussion on the Unraid forums.
