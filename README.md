@@ -14,17 +14,20 @@ My approach is straightforward: **make it work, document it clearly, and keep it
 - **Scripting & automation:** Bash, PowerShell, configuration management, and repeatable installation guides
 - **IT support:** Endpoint troubleshooting, deployment, maintenance, user support, and documentation
 
-## 🚀 Featured homelab projects
+## 🚀 Featured public projects
+
+These are some of the projects I've chosen to feature on my GitHub profile:
 
 | Project | What it's for |
 | --- | --- |
-| 🐳 [DockerManger](https://github.com/bmartino1/DockerManger) | A lightweight Docker and Compose management Web UI with native-host and multi-architecture Docker installation options |
-| 📡 [NetProbe](https://github.com/bmartino1/NetProbe) | Internet and network-connection monitoring with a self-hosted dashboard |
-| 🖥️ [HomelabScripts](https://github.com/bmartino1/HomelabScripts) | Proxmox and homelab setup, maintenance, and troubleshooting scripts |
-| 📺 [HDHomeRun + Tailscale](https://github.com/bmartino1/HDHomeRun_Tailsacale) | A Raspberry Pi-based approach to remote HDHomeRun access using Tailscale |
-| 🧰 [Unraid Docker Templates](https://github.com/bmartino1/unraid-docker-templates) | Community Docker templates and configuration resources for Unraid |
+| 🧰 [Unraid Docker Templates](https://github.com/bmartino1/unraid-docker-templates) | Community Application XML templates for Unraid |
+| 🔐 [sftp2](https://github.com/bmartino1/sftp2) | A rebuild of a Docker-based SFTP service |
+| 📡 [NetProbe_Python](https://github.com/bmartino1/NetProbe_Python) | A Python-based network monitoring project using PostgreSQL and Grafana |
+| 🗝️ [smb-password-portal](https://github.com/bmartino1/smb-password-portal) | A non-administrator Samba password portal for Unraid |
 
-I also work on containers, utilities, and guides around Plex, SFTP/Fail2Ban, Immich, backup workflows, and other services that come up in a real homelab.
+I also maintain [DockerManger](https://github.com/bmartino1/DockerManger), a lightweight Docker and Compose management Web UI with native-host installation and published amd64/arm64 images.
+
+My public repositories focus on practical tools, repeatable configurations, and documentation that other homelab users can adapt.
 
 ## 📚 Guides, troubleshooting & community
 
