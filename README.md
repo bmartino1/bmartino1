@@ -2,14 +2,14 @@
 
 **IT support professional • Homelab enthusiast • Self-hosting tinkerer**
 
-I work with Windows and Linux systems, networking, troubleshooting, and service desk support. Outside of work, I enjoy building and maintaining a practical homelab, experimenting with self-hosted services, and sharing the fixes, scripts, and configurations that make things easier for the next person.
+I work with Windows and Linux systems, networking, troubleshooting, and service desk support. Outside of work, I build and maintain a practical homelab, experiment with self-hosted services, and share the fixes, scripts, and configurations that make things easier for the next person.
 
 My approach is straightforward: **make it work, document it clearly, and keep it manageable.**
 
 ## 🛠️ What I work with
 
 - **Systems & virtualization:** Linux, Windows, Debian/Ubuntu, Proxmox VE, virtual machines, and LXC containers
-- **Containers & self-hosting:** Docker, Docker Compose, Unraid, application deployment, storage, and backups
+- **Containers & self-hosting:** Docker, Docker Compose, Unraid, Casa OS, Truenas, application deployment, storage, and backups
 - **Networks & access:** UniFi, VPNs, Tailscale, SSH, DNS, and troubleshooting
 - **Scripting & automation:** Bash, PowerShell, configuration management, and repeatable installation guides
 - **IT support:** Endpoint troubleshooting, deployment, maintenance, user support, and documentation
