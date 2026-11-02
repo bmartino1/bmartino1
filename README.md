@@ -16,12 +16,11 @@ My approach is straightforward: **make it work, document it clearly, and keep it
 
 ## 🚀 Featured public projects
 
-These are my **11 active public repositories**, listed in alphabetical order. Archived and private repositories are not included; this profile README repository is excluded as well.
+These are my **10 active public repositories**, listed in alphabetical order. Forks, Archived and private repositories are not included; this profile README repository is excluded as well.
 
 | Project | What it's for |
 | --- | --- |
 | [`bmartino1CasaOS_AppStore`](https://github.com/bmartino1/bmartino1CasaOS_AppStore) | Third-party, independently maintained app store for CasaOS and ZimaOS |
-| [`bmartino1TrueNasCharts`](https://github.com/bmartino1/bmartino1TrueNasCharts) | Unofficial TrueNAS SCALE and HexOS Docker Compose app collection for custom YAML deployments |
 | [`clamav-alpine`](https://github.com/bmartino1/clamav-alpine) | Alpine-based ClamAV container rebuilt to run `clamdscan` |
 | [`DockerManger`](https://github.com/bmartino1/DockerManger) | Docker and Compose management Web UI with native-host and amd64/arm64 Docker deployment |
 | [`NetProbe_Python`](https://github.com/bmartino1/NetProbe_Python) | Python rebuild of a network-monitoring tool |
